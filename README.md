@@ -1,6 +1,6 @@
 # PING - PONG
 
-##[Play now!](https://z01berg.github.io/Pong/index.html)
+## [Play now!](https://z01berg.github.io/Pong/index.html)
 
 ### DESCRIPTION
 ![Standart Game](image.bmp)
